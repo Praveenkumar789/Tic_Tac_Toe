@@ -321,22 +321,22 @@ printf("\a");
               setColor(4);
               fflush(stdin);
               gets(player1);
-              setColor(6);
-              printf("\nWelcome %s your sign is X",player1);
+              setColor(15);
+              printf("\nWelcome %s your sign is X\n",player1);
             p:setColor(3);
-              printf("\n\nWho will play for 'O'\n");
+              printf("\nWho will play for 'O'\n");
               setColor(2);
               fflush(stdin);
               gets(player2);
               if(strcmp(player2,player1)==0)
               {setColor(6);
-                  printf("\n\nplease select a different name\n");
+                  printf("\nplease select a different name\n");
                   fflush(stdin);
                   goto p;
               }
-              setColor(6);
+              setColor(15);
               printf("\nWelcome %s your sign is O\n",player2);
-              printf("\n\n");
+              printf("\n\n\n");
               setColor(1);
               system("pause");
               system("color 04");
