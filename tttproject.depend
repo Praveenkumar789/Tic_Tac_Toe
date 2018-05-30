@@ -1,0 +1,63 @@
+# depslib dependency file v1.0
+1527433371 source:c:\users\praveen kumar\documents\tttproject\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1527444341 source:c:\users\praveen kumar\documents\tttproject\main.cpp
+	<stdio.h>
+	<stdlib.h>
+	<winbgim.h>
+	<graphics.h>
+
+1527433626 c:\users\praveen kumar\documents\tttproject\graphics.h
+	<windows.h>
+	<limits.h>
+	<sstream>
+
+1527454992 source:c:\users\praveen kumar\documents\projects\tttproject\main.cpp
+	<stdio.h>
+	<string.h>
+	"rlutil.h"
+
+1527453598 c:\users\praveen kumar\documents\projects\tttproject\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
+1527491366 source:c:\users\praveen kumar\documents\projects\tttproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<time.h>
+
+1527669950 source:c:\users\praveen kumar\desktop\tttproject\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"rlutil.h"
+	<time.h>
+
+1527453598 c:\users\praveen kumar\desktop\tttproject\rlutil.h
+	<iostream>
+	<string>
+	<cstdio>
+	<stdio.h>
+	<string.h>
+	<windows.h>
+	<conio.h>
+	<termios.h>
+	<unistd.h>
+	<sys/ioctl.h>
+	<sys/types.h>
+	<sys/time.h>
+
